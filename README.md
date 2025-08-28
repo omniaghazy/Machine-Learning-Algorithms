@@ -1,6 +1,7 @@
 # Machine-Learning-Algorithms
-Bank Marketing Project
-This project is definitely worthy of being on your CV and Portfolio because it proves a set of strong, highly sought-after skills in the job market:
+
+"Bank Marketing Project"
+
 
 Data Understanding Skills:
 
